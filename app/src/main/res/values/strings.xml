@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fragment1</string>
+
+
+    <string name="movies_fragment">Movies Fragment</string>
+    <string name="albums_fragment">Albums Fragment</string>
+    <string name="series_fragment">Series Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
