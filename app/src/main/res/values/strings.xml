@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fragment1</string>
+
+
+    <string name="movies_fragment">Movies Fragment</string>
+    <string name="albums_fragment">Albums Fragment</string>
+    <string name="series_fragment">Series Fragment</string>
+
+
+</resources>
